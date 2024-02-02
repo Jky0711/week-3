@@ -37,3 +37,6 @@
 ### Data Lakes
 - Stores raw, unstructured data.
 - Suitable for big data and real-time analytics.
+
+# Python Practices
+## 10 practice questions and answers
